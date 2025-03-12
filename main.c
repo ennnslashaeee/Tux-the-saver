@@ -112,7 +112,7 @@ int main() {
         }
 
         if (tux_x == botnet_x && tux_y == botnet_y && !invincible) {
-            printf("\x1b[31mTux got caught by the Botnet! Game Over!\x1b[0m\n");
+            printf("\x1b[31mTux got infected by the Botnet! Game Over!\x1b[0m\n");
             break;
         }
 
