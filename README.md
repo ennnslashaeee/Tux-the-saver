@@ -16,4 +16,4 @@ then run ./save-Beastie
 
 enjoy 💙
 
-(check out my other projects at https://myprojects.n-a.dev/ [this will be there soon] or my github )
+(check out my other projects at https://n-a.dev/ [this will be there soon] or my github )
