@@ -15,3 +15,5 @@ then run ./save-Beastie
 -------END BASH------
 
 enjoy 💙
+
+(check out my other projects at https://myprojects.n-a.dev/ [this will be there soon] or my github )
