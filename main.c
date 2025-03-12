@@ -107,7 +107,7 @@ int main() {
 
         if (tux_x == beastie_x && tux_y == beastie_y) {
             rescued = 1;
-            printf("\x1b[33mTux rescued Beastie! Freedom!\x1b[0m\n");
+            printf("\x1b[33mTux rescued Beastie!, Freedom!\x1b[0m\n");
             break;
         }
 
@@ -121,7 +121,7 @@ int main() {
         fgets(input, sizeof(input), stdin);
         input[strcspn(input, "\n")] = 0;
 
-        if (strcmp(input, "Linux Torvalds") == 0 || strcmp(input, "685108800") == 0 || strcmp(input, "Fuck Nvidia") == 0) {
+        if (strcmp(input, "Linus Torvalds") == 0 || strcmp(input, "685108800") == 0 || strcmp(input, "Fuck Nvidia") == 0) {
             invincible = 1;
             printf("\x1b[32mInvincibility activated!\x1b[0m\n");
         } else if (strlen(input) == 1 && (input[0] == 'w' || input[0] == 'a' || input[0] == 's' || input[0] == 'd')){
